@@ -1,3 +1,1 @@
-# BIT-CST-OS
-BIT网安操作系统实验
-
+# Operating System in Cyberspace Science and Technology
